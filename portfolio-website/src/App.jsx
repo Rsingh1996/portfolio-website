@@ -8,7 +8,6 @@ import Testimonials from "./component/Testimonials";
 import Contact from "./component/Contact";
 
 function App() {
-  console.log("App");
   return (
     <>
       <h1>My Portfolio website</h1>
