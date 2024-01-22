@@ -9,13 +9,13 @@ import Contact from "./Contact";
 const Home = () => {
   return (
     <>
-      <h1>My Portfolio website</h1>
-      <Navbar />
-      <About />
+      {/* <h1 className="text-2xl font-bold">My Portfolio website</h1> */}
+      {/* <Navbar /> */}
+      {/* <About />
       <Skills />
       <Projects />
       <Testimonials />
-      <Contact />
+      <Contact /> */}
     </>
   );
 };
