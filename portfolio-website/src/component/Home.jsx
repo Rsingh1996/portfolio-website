@@ -10,7 +10,7 @@ import { ClassNames } from "@emotion/react";
 
 const Home = () => {
   return (
-    <div className=" w-full h-screen bg-[#0a192f]">
+    <div name="home" className=" w-full h-screen bg-[#0a192f]">
       {/* container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p1 className="text-yellow-600">My name is</p1>
@@ -20,7 +20,11 @@ const Home = () => {
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
           I'm a React Developer
         </h2>
-        <p1 className="text-[#8892b0] py-4 max-w-[700px]">lorum epsom</p1>
+        <p1 className="text-[#8892b0] py-4 max-w-[700px]">
+          I am a React Developer skilled in creating dynamic and scalable web
+          applications, proficient in React fundamentals, component-based
+          architecture, state management, and responsive design.
+        </p1>
         <div>
           <button className="text-white group border-2 px-6 py-3 mx-2 flex items-center hover:bg-yellow-600 hover:border-yellow-600">
             View Work{" "}
