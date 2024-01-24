@@ -5,6 +5,7 @@ import Home from "./component/Home";
 import Projects from "./component/Projects";
 import Navbar from "./component/Navbar";
 import About from "./component/About";
+import Skills from "./component/Skills";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Navbar />
       <Home />
       <About />
+      <Skills />
       {/* <Router>
         <Routes>
           <Route path="/" element={<Home />} />
