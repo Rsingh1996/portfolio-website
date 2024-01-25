@@ -21,7 +21,7 @@ const Projects = () => {
           {/*  Grid Item*/}
           <div
             style={{ backgroundImage: `url(${makeyourtrip})` }}
-            className="shadow-lg shadow-[#040c26] group container rounded-md flex justify-center items-center mx-auto content-div hover:scale-105 duration-100"
+            className="shadow-lg shadow-[#040c26] group container rounded-md flex justify-center items-center mx-auto content-div "
           >
             {/*Hover Effact */}
             <div className="w-full h-full text-center opacity-0 group-hover:opacity-100">
