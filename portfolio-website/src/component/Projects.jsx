@@ -26,7 +26,7 @@ const Projects = () => {
             {/*Hover Effact */}
             <div className="w-full h-full text-center opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React applications
+                Tour Planner App
               </span>
               <div className="pt-8 ">
                 <a
@@ -56,7 +56,7 @@ const Projects = () => {
             {/*Hover Effact */}
             <div className="w-full h-full text-center opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React applications
+                Machinehack GUI
               </span>
               <div className="pt-8 ">
                 <a
@@ -86,7 +86,7 @@ const Projects = () => {
             {/*Hover Effact */}
             <div className="w-full h-full text-center opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React applications
+                Color Palette
               </span>
               <div className="pt-8 ">
                 <a
@@ -116,7 +116,7 @@ const Projects = () => {
             {/*Hover Effact */}
             <div className="w-full h-full text-center opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React applications
+                Quote Generator
               </span>
               <div className="pt-8 ">
                 <a
@@ -146,7 +146,7 @@ const Projects = () => {
             {/*Hover Effact */}
             <div className="w-full h-full text-center opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React applications
+                Joke Teller App
               </span>
               <div className="pt-8 ">
                 <a
@@ -176,7 +176,7 @@ const Projects = () => {
             {/*Hover Effact */}
             <div className="w-full h-full text-center opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React applications
+                Tic Tac Toe Game
               </span>
               <div className="pt-8 ">
                 <a
