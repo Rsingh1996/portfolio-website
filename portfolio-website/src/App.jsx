@@ -17,13 +17,6 @@ function App() {
       <Skills />
       <Projects />
       <Contact />
-      {/* <Router>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route />
-        </Routes>
-      </Router> */}
     </>
   );
 }

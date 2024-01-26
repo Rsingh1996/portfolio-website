@@ -1,12 +1,6 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
-import Navbar from "./Navbar";
-import About from "./About.jsx";
-import Skills from "./Skills";
-import Projects from "./Projects";
-import Testimonials from "./Testimonials";
-import Contact from "./Contact";
-import { ClassNames } from "@emotion/react";
+import { Link } from "react-scroll";
 
 const Home = () => {
   return (
@@ -28,6 +22,9 @@ const Home = () => {
         <div>
           <button className="text-white group border-2 px-6 py-3 mx-2 flex items-center hover:bg-yellow-600 hover:border-yellow-600">
             View Work{" "}
+            <Link to="work" smooth={true} duration={500}>
+              Work
+            </Link>
             <span className="group-hover:rotate-90 duration-300">
               <HiArrowNarrowRight className="ml-3" />
             </span>
