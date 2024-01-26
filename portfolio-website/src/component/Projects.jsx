@@ -1,10 +1,10 @@
 import React from "react";
-import makeyourtrip from "../assets/makeyourtrip.png";
-import machinehack from "../assets/machinehack.png";
-import quotegenerator from "../assets/quotegenerator.png";
-import tictactoe from "../assets/tic-tac-toe.png";
-import joketeller from "../assets/joketeller.png";
-import colorpalette from "../assets/color-palette.png";
+import makeyourtrip from "../../dist/assets/makeyourtrip.png";
+import machinehack from "../../dist/assets/machinehack.png";
+import quotegenerator from "../../dist/assets/quotegenerator.png";
+import tictactoe from "../../dist/assets/tic-tac-toe.png";
+import joketeller from "../../dist/assets/joketeller.png";
+import colorpalette from "../../dist/assets/color-palette.png";
 
 const Projects = () => {
   return (

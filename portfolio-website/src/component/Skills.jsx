@@ -1,10 +1,10 @@
 import React from "react";
-import HTML from "../assets/html.png";
-import CSS from "../assets/css.png";
-import JAVASCRIPT from "../assets/javascript.png";
-import REACTIMG from "../assets/react.png";
-import GITHUB from "../assets/github.png";
-import PYTHON from "../assets/python.png";
+import HTML from "../../dist/assets/html.png";
+import CSS from "../../dist/assets/css.png";
+import JAVASCRIPT from "../../dist/assets/javascript.png";
+import REACTIMG from "../../dist/assets/react.png";
+import GITHUB from "../../dist/assets/github.png";
+import PYTHON from "../../dist/assets/python.png";
 
 const Skills = () => {
   return (
