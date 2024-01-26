@@ -17,7 +17,7 @@ const Projects = () => {
           <p className="py-4">Checkout some of my recent Projects</p>
         </div>
         {/*container */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 ">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 ">
           {/*  Grid Item*/}
           <div
             style={{ backgroundImage: `url(${makeyourtrip})` }}
